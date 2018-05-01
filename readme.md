@@ -4,7 +4,7 @@
 
 - [Meridian Technology Stack Assessment](#meridian-technology-stack-assessment)
 - [Introduction](#introduction)
-- [How to get started.](#how-to-get-started)
+- [Getting Started](#getting-started)
 - [Questions](#questions)
     - [SQL Server](#sql-server)
     - [C# - Windows Console](#c---windows-console)
@@ -21,7 +21,7 @@ While you follow through the exercises below, we ask you to keep a few things in
 - We will be logging on to your account on the machine provided to you, so please refrain from saving any personal data there. Please clear github cache as well once you are done. Please make sure you've pushed your code to your forked repository. 
 - Make sure you have the proper .gitignore. Although this is not critical, it'd be good not to have to download gigabytes of packages with the repo.
 
-# How to get started.
+# Getting Started
 
 - You can RDP into our azure machine. the IP, username, and password has been emailed to you. Your environment is set up with VS 2017 Community, SQL Server Express 2016, SQL Server Management Studio 2017, NodeJS LTS, Angular 5, and dotnet Core 2 framework. Feel free to install any other packages your may need.
 - Fork this repository, and then clone it in C:\Users\\[your_login]\Repos. Create a folder for each exercise below, and create your solutions, projects, and scripts in there.
