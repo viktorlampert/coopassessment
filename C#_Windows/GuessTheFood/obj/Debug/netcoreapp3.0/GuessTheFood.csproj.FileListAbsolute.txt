@@ -1,0 +1,11 @@
+C:\Users\Viktor\Desktop\C#_Windows\GuessTheFood\bin\Debug\netcoreapp3.0\GuessTheFood.exe
+C:\Users\Viktor\Desktop\C#_Windows\GuessTheFood\bin\Debug\netcoreapp3.0\GuessTheFood.deps.json
+C:\Users\Viktor\Desktop\C#_Windows\GuessTheFood\bin\Debug\netcoreapp3.0\GuessTheFood.runtimeconfig.json
+C:\Users\Viktor\Desktop\C#_Windows\GuessTheFood\bin\Debug\netcoreapp3.0\GuessTheFood.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\C#_Windows\GuessTheFood\bin\Debug\netcoreapp3.0\GuessTheFood.dll
+C:\Users\Viktor\Desktop\C#_Windows\GuessTheFood\bin\Debug\netcoreapp3.0\GuessTheFood.pdb
+C:\Users\Viktor\Desktop\C#_Windows\GuessTheFood\obj\Debug\netcoreapp3.0\GuessTheFood.csprojAssemblyReference.cache
+C:\Users\Viktor\Desktop\C#_Windows\GuessTheFood\obj\Debug\netcoreapp3.0\GuessTheFood.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\C#_Windows\GuessTheFood\obj\Debug\netcoreapp3.0\GuessTheFood.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\C#_Windows\GuessTheFood\obj\Debug\netcoreapp3.0\GuessTheFood.dll
+C:\Users\Viktor\Desktop\C#_Windows\GuessTheFood\obj\Debug\netcoreapp3.0\GuessTheFood.pdb
