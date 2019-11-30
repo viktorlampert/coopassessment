@@ -1,0 +1,9 @@
+2019-11-30 12:05:46.5531 ProductAPI.Controllers.ProductsController ID: 1, Name: Dog Shampoo, Action: Add 
+2019-11-30 12:06:12.5997 ProductAPI.Controllers.ProductsController ID: 2, Name: WD Red 4 TB, Action: Add 
+2019-11-30 12:06:16.5341 ProductAPI.Controllers.ProductsController ID: 3, Name: 2018 Nissan Mourano, Action: Add 
+2019-11-30 13:11:52.4950 ProductAPI.Controllers.ProductsController ID: 1, Name: Dog Shampoo, Action: Add 
+2019-11-30 13:13:28.4666 ProductAPI.Controllers.ProductsController ID: 23, Name: Dog Shampoo, Action: Add 
+2019-11-30 13:56:01.7471 ProductAPI.Controllers.ProductsController ID: 23, Name: Dog Shampoo, Action: Add 
+2019-11-30 14:47:37.2942 ProductAPI.Controllers.ProductsController ID: 26, Name: Dog Shampoo, Action: Delete 
+2019-11-30 14:48:46.7566 ProductAPI.Controllers.ProductsController ID: 27, Name: Dog Shampoo, Action: Delete 
+2019-11-30 14:48:51.1087 ProductAPI.Controllers.ProductsController ID: 28, Name: Dog Shampoo, Action: Delete 
